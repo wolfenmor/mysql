@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b3fdd4-d513-4279-852f-2cbb0d3bb9d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="16b3fdd4-d513-4279-852f-2cbb0d3bb9d2" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/526683a8-b94f-4440-93c6-5f5832b958e1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/526683a8-b94f-4440-93c6-5f5832b958e1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Maksim K/IdeaProjects/react",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,7 +42,8 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
-      "mysql"
+      "mysql",
+      "mongo"
     ]
   }
 }]]></component>
@@ -51,11 +55,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679493753153</updated>
-      <workItem from="1679493754429" duration="4091000" />
+      <workItem from="1679493754429" duration="8490000" />
+      <workItem from="1679659693089" duration="4548000" />
+      <workItem from="1679666251498" duration="49000" />
+      <workItem from="1679666405832" duration="2143000" />
+      <workItem from="1679762424116" duration="2335000" />
+      <workItem from="1679851938444" duration="38000" />
+      <workItem from="1680018872457" duration="5812000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1679498154042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679498154042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
